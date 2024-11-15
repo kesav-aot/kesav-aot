@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working at **AOT Technologies**<br>🌱 Learning advanced concepts in **AI** and **Python Backend Development**<br>⚡ Fun fact: I enjoy building **drum machines** and crafting unique digital experiences<br>💡 Interested in exploring more **AI integration** and **UI/UX** improvements in future projects<br>
+🔭 Currently working at **AOT Technologies**<br>🌱 Learning advanced concepts in **AI** and **Python Backend Development**<br>⚡ Fun fact: I enjoy building **Innovative Ideas** and crafting unique digital experiences<br>💡 Interested in exploring more **AI integration** and **UI/UX** improvements in future projects<br>
 
 
 ## 🌐 Socials:
