@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kesav Gopan!
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile) <!-- Optional: Add a custom banner -->
+![Profile Banner]([https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile](https://media.licdn.com/dms/image/v2/D5616AQE07CRU5gWwLg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723188280651?e=1736985600&v=beta&t=DMc8l_LOJRIKzqmd6qFOkNKZKFV0csNeoeI4FjZBr9E)) <!-- Optional: Add a custom banner -->
 
 ### 💻 About Me
 I'm a **passionate developer** with a strong focus on **React**, **Node.js**, and **Python**. I love creating responsive and user-friendly applications, exploring software testing, and experimenting with modern web technologies. My projects often feature vibrant **neon-themed designs** and innovative **UI/UX** enhancements.
